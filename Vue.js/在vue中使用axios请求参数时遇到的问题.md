@@ -8,7 +8,7 @@
 
 我vue使用axios发送请求的代码如下:
 
-```json
+```javascript
 beforeRouteEnter: (to, from, next) => {
   console.log("进入路由之前");
   next(vm => {
