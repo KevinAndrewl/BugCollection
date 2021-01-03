@@ -2,7 +2,7 @@
 
 ![image-20210103160506561](在vue中使用axios请求参数时遇到的问题.assets/image-20210103160506561.png)
 
-先说解决办法：**直接交换引入axios时Vue.use()里面参数的顺序****
+先说解决办法：**直接交换引入axios时Vue.use()里面参数的顺序**
 
 第一个问题：`this.axios is not a function`
 
